@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Menna Hamouda 👋
 
-<!--
-**Menna-Hamouda/Menna-Hamouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Front-End Developer | Angular
 
-Here are some ideas to get you started:
+I'm a Junior Front-End Developer focused on building responsive web applications using Angular, TypeScript, JavaScript, and Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional user interfaces and improving my coding skills through hands-on projects and continuous learning.
+
+### 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Framework:** Angular
+- **Styling:** Bootstrap, Responsive Design
+- **Angular:** Components, Routing, Services, Dependency Injection, HttpClient, Reactive Forms, Guards, Interceptors, Signals
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+#### 🛍️ [MHZ Store — E-commerce Application](https://github.com/Menna-Hamouda/MHZ-Store)
+
+An Angular e-commerce application featuring product browsing, product details, shopping cart, favorites, and responsive layouts.
+
+**Tech Stack:** Angular, TypeScript, Bootstrap
+
+#### 📊 [MHZ Admin Dashboard — Company Management](https://github.com/Menna-Hamouda/MHZ-Admin-Dashboard)
+
+A responsive Angular admin dashboard for company management, featuring user and product management, data tables, CRUD operations, search, filtering, sorting, and pagination.
+
+**Tech Stack:** Angular, TypeScript, Bootstrap, CSS
+
+
+
+### 🌱 Currently Learning
+
+- Advanced JavaScript
+- RxJS and reactive programming
+- Angular Signals and application architecture
+- Clean code and performance optimization
+
+### 📫 Connect With Me
+
+- [GitHub Profile](https://github.com/Menna-Hamouda)
+
+---
+
+*Always learning, building, and improving.*
